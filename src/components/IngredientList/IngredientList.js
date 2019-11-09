@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Hamburger() {
+function IngredientList() {
     return (
         <div>
-            Hamburger
+            IngredientList
         </div>
     );
 }
 
-export default Hamburger;
+export default IngredientList;
